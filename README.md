@@ -5,7 +5,7 @@ A ideia foi criar uma base fictícia de clientes, restaurantes, pedidos e promo�
 
 ---
 
-## 🗂 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ### 1. Criação da Tabela e Carga de Dados
 - Criação da tabela `restaurant_orders`.
