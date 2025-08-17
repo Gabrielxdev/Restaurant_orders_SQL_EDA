@@ -1,4 +1,4 @@
-#  Mini-Projeto SQL: Análise Exploratória de Pedidos de Restaurantes
+#  Desafio SQL: Análise Exploratória de Pedidos de Restaurantes
 
 Este repositório contém um exercício prático de **análise exploratória com SQL Server**, simulando um cenário de plataforma de pedidos de restaurantes.  
 A ideia foi criar uma base fictícia de clientes, restaurantes, pedidos e promoções, e em seguida responder a diferentes perguntas de negócio usando consultas SQL.
